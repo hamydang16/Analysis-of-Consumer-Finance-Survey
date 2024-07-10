@@ -34,14 +34,14 @@ The data can be found at this [page](https://www.federalreserve.gov/econres/scfi
 
 
 ## Screenshots
-![image](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-4-hamydang/assets/160813113/7fc0c2ee-f1b0-41c4-9874-be07b1c5bfb3)
+![image](https://github.com/hamydang16/Analysis-of-Consumer-Finance-Survey/assets/174179737/82fad53a-1372-4b21-aa33-a75a9639bbe6)
 
 ## Cluster insight
 
 #### Question 1: How can we cluster business owners in the US to better identify different types of investors?
 Using KMeans as a starting point and then refining through Agglomerative Hierarchical Clustering, we are able to identify 5 clusters with characteristics as detailed in the table below.
 
-![image](https://github.com/MQ-COMP2200-COMP6200/portfolio-part-4-hamydang/assets/160813113/5b562f6c-e5de-41c9-9083-8fe20ceac0b1)
+![image](https://github.com/hamydang16/Analysis-of-Consumer-Finance-Survey/assets/174179737/9dcf0c18-8ad9-4452-9e57-6287195dd803)
 
 #### Question 2: What are the influential attributes in determining the clusters?
 By making use of Principal Component Analysis, we were able to extract the most influential financial features such as **asset, capital gains, debt and value of houses**.
